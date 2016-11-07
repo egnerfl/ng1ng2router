@@ -28,7 +28,7 @@ They illustrate the three stages of migrating modules from Angular 1 to Angular 
 
 * The Main Menu moduule is written in Angular 1. In other words, the migration of this module hasn't started yet.
 * The Messages module is written using Angular 1, but one of its components has been migrated to Angular 2.
-* The Settings module is written using Angular 1. In other words, the migration of this module has been completed.
+* The Settings module is written using Angular 2. In other words, the migration of this module has been completed.
 
 Every module defintes components, services, and routes. In addition every module has an NgModule with a static methods where we can downgrade/upgrade, components and services.
 
